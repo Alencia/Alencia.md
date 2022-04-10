@@ -4,6 +4,14 @@
 
 Merhaba, ben Ayaz Duran, Bot Developer , web tasarımcısı ve geliştiricisiyim. en güzel tasarımları sunmaya geldim sizleri en güzel tasarımlarım ve animasyonlarla güzelleştirecegim ve ayrıca Teşekkür Ederim Beni Destekleyen Herkese
 
+### 🛠 &nbsp;Software Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 ## İLETİŞİM ADRESLERİM
   <a href="https://github.com/Alencia"><img src="https://img.shields.io/badge/Alencia%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white"></a><br>
   <a href="https://discord.gg/1874"><img src="https://img.shields.io/badge/Alencia%20Squad%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a><br>
