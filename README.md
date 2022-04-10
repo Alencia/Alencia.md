@@ -4,5 +4,6 @@
 
 Merhaba, ben Ayaz Duran, Bot Developer , web tasarımcısı ve geliştiricisiyim. en güzel tasarımları sunmaya geldim sizleri en güzel tasarımlarım ve animasyonlarla güzelleştirecegim ve ayrıca Teşekkür Ederim Beni Destekleyen Herkese
 
-<!-- İLETİŞİM ADRESLERİM -->
+<!-- İLETİŞİM ADRESLERİM :START -->
 - İnstagram Hesabım
+<!-- İLETİŞİM ADRESLERİM:END -->
