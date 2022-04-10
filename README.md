@@ -5,5 +5,5 @@
 Merhaba, ben Ayaz Duran, Bot Developer , web tasarımcısı ve geliştiricisiyim. en güzel tasarımları sunmaya geldim sizleri en güzel tasarımlarım ve animasyonlarla güzelleştirecegim ve ayrıca Teşekkür Ederim Beni Destekleyen Herkese
 
 ## İLETİŞİM ADRESLERİM
-- İnstagram Hesabım : Alenciayz
-- Discord İsmim : Alencia#1874
+  <a href="https://github.com/Alencia"><img src="https://img.shields.io/badge/Alencia%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white"></a><br>
+  <a href="https://www.npmjs.com/~Alencia"><img src="https://img.shields.io/badge/Alencia%20-1d202b.svg?&style=for-the-badge&logo=npm&logoColor=white"></a>
