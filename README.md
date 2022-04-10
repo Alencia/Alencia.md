@@ -14,7 +14,7 @@ Merhaba, ben Ayaz Duran, Bot Developer , web tasarımcısı ve geliştiricisiyim
 
 ## İLETİŞİM ADRESLERİM
   <a href="https://github.com/Alencia"><img src="https://img.shields.io/badge/Alencia%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white"></a> &nbsp;
-  <a href="https://discord.gg/1874"><img src="https://img.shields.io/badge/Alencia%20Squad%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a> &nbsp;
+  <a href="https://discord.gg/1874"><img src="https://img.shields.io/badge/Alencia%20Squad%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a> &nbsp;<br>
   <a href="https://instagram.com/alenciayz"><img src="https://img.shields.io/badge/@alenciayz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="https://discord.com/users/938855046190350336"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
   ![](https://komarev.com/ghpvc/?username=Alencia)
